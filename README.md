@@ -8,15 +8,11 @@
 
 本书适用于对区块链技术和超级账本 Fabric 项目有一定实践经验，并对其实现感兴趣的读者。
 
-* 在线阅读：[GitBook](https://www.gitbook.com/book/yeasy/hyperledger_code_fabric) 或 [GitHub](https://github.com/yeasy/hyperledger_code_fabric/blob/master/SUMMARY.md)。
-* pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/yeasy/hyperledger_code_fabric)
-* epub 版本 [下载](https://www.gitbook.com/download/epub/book/yeasy/hyperledger_code_fabric)
+* 在线阅读：
+    - [GitBook](https://agzs.gitbook.io/fabric-code-analysis/) 
+    - [GitHub](https://github.com/Agzs/fabric_code_analysis/blob/master/SUMMARY.md)。
 
 Hyperledger Fabric 自身仍在快速发展中，生态环境也在蓬勃成长。欢迎 [参与维护项目](contribute.md)。
 
 * [修订记录](revision.md)
 * [贡献者名单](https://github.com/yeasy/hyperledger_code_fabric/graphs/contributors)
-
-
-*本书结构由 [gitbook_gen](https://github.com/yeasy/code_snippet/blob/master/python/gitbook_gen.py) 维护*。
-
