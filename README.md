@@ -10,7 +10,7 @@
 
 * 在线阅读：
     - [GitBook](https://agzs.gitbook.io/fabric-code-analysis/) 
-    - [GitHub](https://github.com/Agzs/fabric_code_analysis/blob/master/SUMMARY.md)。
+    - [GitHub](https://github.com/Agzs/fabric_code_analysis/blob/master/SUMMARY.md)
 
 Hyperledger Fabric 自身仍在快速发展中，生态环境也在蓬勃成长。欢迎 [参与维护项目](contribute.md)。
 
